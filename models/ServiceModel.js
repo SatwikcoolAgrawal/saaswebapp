@@ -24,11 +24,11 @@ const Services = new Schema({
 
 
 
-Services.pre('save', async function (next) {
+// Services.pre('save', async function (next) {
 
 
 
-});
+// });
 
 
 
