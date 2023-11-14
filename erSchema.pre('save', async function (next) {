@@ -1,0 +1,29 @@
+[33mcommit 803833ab7dd727fe4fa8a20e81f5ce2bd2a85c48[m[33m ([m[1;36mHEAD -> [m[1;32mnewBranch[m[33m)[m
+Author: Trickster19 <harrismohd786@gmail.com>
+Date:   Tue Nov 14 19:42:06 2023 +0530
+
+     commented a func
+
+[33mcommit fc4a1cdb41384e74307dda2fcb1f89163521696f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Trickster19 <harrismohd786@gmail.com>
+Date:   Tue Nov 14 18:05:08 2023 +0530
+
+    login and service model added
+
+[33mcommit af152cfcaf8bc340b33ea21daf64a9e99664cea1[m
+Author: Satwik Agrawal <satwikcoolagrawal@gmail.com>
+Date:   Tue Nov 14 14:58:37 2023 +0530
+
+    removed credentials
+
+[33mcommit 9032155b5c98044ee3b87c537e4f586477e27405[m
+Author: Satwik Agrawal <satwikcoolagrawal@gmail.com>
+Date:   Tue Nov 14 14:56:02 2023 +0530
+
+    remove credentials
+
+[33mcommit a6fdcaa75b94b1f1e8cc25127af5e89b6fe2def7[m
+Author: Satwik Agrawal <satwikcoolagrawal@gmail.com>
+Date:   Tue Nov 14 14:52:05 2023 +0530
+
+    starter-template-added
